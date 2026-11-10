@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh api -X PUT repos/ncr0517/ncr0517.github.io/pulls/*/merge*)",
+      "Bash(git push --force-with-lease *)"
+    ]
+  }
+}
